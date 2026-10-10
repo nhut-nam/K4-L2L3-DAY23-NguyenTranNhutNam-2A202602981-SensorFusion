@@ -6,9 +6,9 @@
 
 - Họ tên: Nguyễn Trần Nhựt Nam
 - MSSV: 2A202602981
-- Email: Chưa cung cấp
+- Email: 26ai.namntn@vinuni.edu.vn
 - Link repo (fork): https://github.com/nhut-nam/K4-L2L3-DAY23-NguyenTranNhutNam-2A202602981-SensorFusion
-- Commit hash nộp (`git rev-parse HEAD`): Xem hash của commit CP6 trên `origin/main` khi nộp LMS.
+- Commit hash nộp (`git rev-parse HEAD`): Xem hash của commit cuối trên `origin/main` khi nộp LMS.
 
 ## Tóm tắt kết quả
 
@@ -66,7 +66,7 @@ Ghi rõ, kể cả khi không dùng ("Không dùng AI"). Xem [RULES.md](../RULES
 - [x] Part A–D không sửa.
 - [x] Lần chạy chấm điểm: `--fusion compare --seed 0`, `frame_start: 0`, `frame_end: 198`.
 - [x] Đã commit `student/artifacts/metrics*.json` và `student/artifacts/grade_run*.log` do runner tạo, không sửa tay.
-- [x] Đã điền báo cáo kết quả và khai báo AI; địa chỉ email chưa được cung cấp.
+- [x] Đã điền báo cáo kết quả, thông tin học viên và khai báo AI.
 - [x] Không commit dữ liệu Waymo, weights, `paths.yaml`, API key.
-- [x] `python tools/check_submission.py` báo `KẾT QUẢ: SẴN SÀNG NỘP` sau khi commit CP6.
+- [x] `python tools/check_submission.py` báo `KẾT QUẢ: SẴN SÀNG NỘP` sau commit cuối.
 - [ ] Đã push và nộp link repo + commit hash trên LMS ([hướng dẫn nộp](../SUBMISSION.md)).
